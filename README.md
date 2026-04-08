@@ -1,7 +1,6 @@
 # Hospital Readmission Risk Predictor
 
 **Author:** Eileen Erkan — 20956743  
-**Courses:** MSE 261 · MSE 331 · MSE 446 · MSE 434
 
 Predicts 30-day hospital readmission risk for diabetic patients using the UCI Diabetes 130-US Hospitals dataset (100k+ patient encounters). Includes a full ML pipeline and an interactive Streamlit web app for clinical use.
 
